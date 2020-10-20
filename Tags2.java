@@ -18,6 +18,7 @@ public class Tags2 {
         System.out.println("Cambio 1");
         System.out.println("Cambio 2");
         System.out.println("Cambio 3");
+	System.out.println("Cambio 4");
         // TODO code application logic here
     }
     
