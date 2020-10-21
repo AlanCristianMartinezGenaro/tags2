@@ -16,3 +16,7 @@ ___________
 - Formato **negrita** primer forma
 - Fomato __negrita__ segunda forma
 - formato ~~sub~~ primera forma
+
+1. Hola
+2. Adios
+3. Como estas
