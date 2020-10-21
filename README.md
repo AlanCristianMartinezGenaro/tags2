@@ -11,6 +11,7 @@ ___________
 Underline 2
 ___________
 
-formato *cursiva* primera forma
-
-formato _cursiva_ segunda forma
+- formato *cursiva* primera forma
+- formato _cursiva_ segunda forma
+- Formato **negrita** primer forma
+- Fomato __negrita__ segunda forma
