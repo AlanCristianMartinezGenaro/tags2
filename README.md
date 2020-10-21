@@ -15,3 +15,4 @@ ___________
 - formato _cursiva_ segunda forma
 - Formato **negrita** primer forma
 - Fomato __negrita__ segunda forma
+- formato ~~sub~~ primera forma
